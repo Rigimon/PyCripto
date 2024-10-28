@@ -1,0 +1,9 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>open_dir.png</file>
+    <file>qrcode.png</file>
+    <file>paste_clicked.png</file>
+    <file>paste.png</file>
+    <file>threebars.png</file>
+  </qresource>
+</RCC>
